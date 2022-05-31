@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets
+Content/ParagonSevarog/*
+Content/Scanned3DPeoplePack/*
+Content/Characters/*
+Content/ThirdPerson/*
