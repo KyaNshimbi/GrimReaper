@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "GrimReaper",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "E:\\Epic\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"E:\\Unreal\\Unreal Projects\\GrimReaper\\Intermediate\\Build\\Win64\\UnrealEditor\\Development\\GrimReaper\\Definitions.GrimReaper.h",
+			"E:\\Unreal\\Unreal Projects\\GrimReaper\\Intermediate\\Build\\Win64\\GrimReaperEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}

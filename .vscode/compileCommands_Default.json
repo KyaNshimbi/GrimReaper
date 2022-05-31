@@ -1,0 +1,67 @@
+[
+    {
+        "file": "E:\\Unreal\\Unreal Projects\\GrimReaper\\Source\\GrimReaper\\GrimReaper.Build.cs",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Unreal\\Unreal Projects\\GrimReaper\\Source\\GrimReaper\\GrimReaper.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Unreal\\Unreal Projects\\GrimReaper\\Source\\GrimReaper\\GrimReaper.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Unreal\\Unreal Projects\\GrimReaper\\Source\\GrimReaper\\GrimReaperAttributeSet.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Unreal\\Unreal Projects\\GrimReaper\\Source\\GrimReaper\\GrimReaperAttributeSet.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Unreal\\Unreal Projects\\GrimReaper\\Source\\GrimReaper\\GrimReaperCharacter.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "E:\\Unreal\\Unreal Projects\\GrimReaper\\Source\\GrimReaper\\GrimReaperCharacter.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\GrimReaper\\\\Source\\\\GrimReaper\\\\GEMeleeDamageExecution.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\GrimReaper\\\\Source\\\\GrimReaper\\\\GEMeleeDamageExecution.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\GrimReaper\\\\Source\\\\GrimReaper\\\\GrimReaperGameMode.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\GrimReaper\\\\Source\\\\GrimReaper\\\\GrimReaperGameMode.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\GrimReaper\\\\Source\\\\GrimReaper\\\\MeleeHitboxData.h",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    },
+    {
+        "file": "e:\\\\Unreal\\\\Unreal Projects\\\\GrimReaper\\\\Source\\\\GrimReaper\\\\MeleeHitboxData.cpp",
+        "command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"E:\\Unreal\\Unreal Projects\\GrimReaper\\.vscode\\compileCommands_Default\\GrimReaper.215.rsp\"",
+        "directory": "E:\\Epic\\UE_5.0\\Engine\\Source"
+    }
+]
